@@ -1,0 +1,6 @@
+[package]
+name = "midi_project"
+version = "0.1.0"
+authors = ["Niko Lepka <slench102+git@gmail.com>"]
+
+[dependencies]
